@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#880e4f</color>
+    <color name="colorPrimaryDark">#560027</color>
+    <color name="colorAccent">#bc477b</color>
+    <color name="color_to_do">#ffffff</color>
+    <color name="color_all">#9f2370</color>
+    <color name="color_work">#ffb14a</color>
+    <color name="color_personal">#59df4d</color>
+    <color name="color_family">#5ae1bd</color>
+    <color name="color_friends">#e7d756</color>
+    <color name="color_others">#6565de</color>
+    <color name="color_event">#0bde04</color>
+</resources>

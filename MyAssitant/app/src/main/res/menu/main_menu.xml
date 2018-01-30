@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:title="@string/weather"
+            android:id="@+id/mnu_advice"/>
+
+        <item
+            android:title="@string/to_do"
+            android:id="@+id/mnu_to_do"/>
+
+
+        <item
+            android:title="@string/share_events"
+            android:id="@+id/mnu_share_evnets"/>
+
+
+    </group>
+</menu>
